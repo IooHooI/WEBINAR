@@ -1,5 +1,1 @@
-.ipynb_checkpoints/Check_Data-checkpoint.ipynb
-.ipynb_checkpoints/create_tables-checkpoint.sql
-.ipynb_checkpoints/flow-checkpoint.py
-.ipynb_checkpoints/get_data_from_s3-checkpoint.py
-.ipynb_checkpoints/Prepare-Prefect-Secrets-checkpoint.ipynb
+.idea
